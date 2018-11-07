@@ -44,9 +44,12 @@ You are free to use any framework and packages that you prefer
 
 ## User stories
 As an administrator running the application
+
 I can view a list of transactions that fall within a selected date range
+
 So that I know exactly how many transactions occurred over the selected period
-##Acceptance Criteria
+
+## Acceptance Criteria
 Transaction date, category name, amount and user id are displayed
 
 # Problems?

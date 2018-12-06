@@ -32,10 +32,7 @@ The task is to create an application that accepts a transaction ***start date***
 * User Id
 
 ## Guidelines and Platform of choice
-You are free to use any framework and packages that you prefer
-* NET (Full Framework or Core), Python, Ruby or JavaScript for web applications
-* .NET (Full Framework or Core), Python for command line applications
-*	iOS or Android for mobile applications
+We expect you to complete the solution using .NET Framework using C# and SQL Server
 
 ## Task requirements
 * Please complete the user story below

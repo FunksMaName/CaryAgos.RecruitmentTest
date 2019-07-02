@@ -13,9 +13,9 @@ CaryAgos Bank has a snapshot database which holds point of sale transaction reco
 * Transaction description
 * Transaction amount 
 * Transaction currency denomination
-* The transaction location Identifier
+* The Transaction location category (Restaurant, Shopping, e.t.c.) Identifier
 
-A separate table exists which links the transaction location Id where a transaction occurred to the most applicable category Id. There are currently 6 defined categories in the system
+A separate table exists which links the transaction location category Id where a transaction occurred to the most applicable category Id. There are currently 6 defined categories in the system
 
 * 1010 – Restaurant
 * 1020 – Groceries
